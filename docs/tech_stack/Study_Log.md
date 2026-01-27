@@ -42,5 +42,5 @@
 | 16      | Modern Asset Formats    | 📅     |             |                 |
 | 17      | Rendering Multiple Obj. | 📅     |             |                 |
 | 18      | Multithreading          | 📅     |             |                 |
-
 | 19      | Ray Tracing             | 📅     |             |                 |
+
