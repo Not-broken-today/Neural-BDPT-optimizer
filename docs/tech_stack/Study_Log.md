@@ -26,7 +26,7 @@
 |---------|-------------------------|--------|-------------|-----------------|
 | 1       | Introduction            | ✅     | 24-01-2026  | 24-01-2026      |
 | 2       | Overview                | ✅     | 24-01-2026  | 24-01-2026      |
-| 3       | Development Environment | ✅     | 24-01-2026  |                 |
+| 3       | Development Environment | ✅     | 24-01-2026  | 24-01-2026      |
 | 4       | Drawing a triangle      | 🔄     | 25-01-2026  |                 |
 | 5       | Vertex buffers          | 📅     |             |                 |
 | 6       | Uniform buffers         | 📅     |             |                 |
@@ -42,4 +42,5 @@
 | 16      | Modern Asset Formats    | 📅     |             |                 |
 | 17      | Rendering Multiple Obj. | 📅     |             |                 |
 | 18      | Multithreading          | 📅     |             |                 |
+
 | 19      | Ray Tracing             | 📅     |             |                 |
